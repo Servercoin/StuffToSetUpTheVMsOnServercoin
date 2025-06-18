@@ -1,2 +1,2 @@
-sudo visudo
+sudo EDITOR=nano visudo
 MyBestVM ALL=(ALL) NOPASSWD: /usr/bin/VBoxControl guestproperty get VM_NAME
