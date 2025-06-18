@@ -1,2 +1,2 @@
 sudo visudo
-yourusername ALL=(ALL) NOPASSWD: /usr/bin/VBoxControl guestproperty get VM_NAME
+MyBestVM ALL=(ALL) NOPASSWD: /usr/bin/VBoxControl guestproperty get VM_NAME
