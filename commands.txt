@@ -1,2 +1,1 @@
-ls /media/$USER/VBOXADDITIONS_*/VBoxLinuxAdditions.run
-sudo mount /dev/cdrom /mnt
+sudo /mnt/VBoxLinuxAdditions.run
