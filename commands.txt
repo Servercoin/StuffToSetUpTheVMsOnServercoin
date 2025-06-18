@@ -1,1 +1,1 @@
-VBoxManage guestproperty enumerate "YourVMName"
+VBoxManage guestproperty enumerate "MyBestVM"
